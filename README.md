@@ -44,3 +44,7 @@ Below are steps I used to configure the keyboard after struggling for a few hour
     }
 }
 ```
+
+![](./block67r2-L1.png)
+
+![](./block67r2-L0.png)
