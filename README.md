@@ -14,7 +14,7 @@ Below are steps I used to configure the keyboard after struggling for a few hour
 6. Select the ``block67r2.json`` file.
 7. Go to Configure (https://www.usevia.app/).
 8. Click the key to the left of the left arrow key (between left arrow and right alt). It should start to hover/pulse.
-9. Click Layers, then MO(1). This key is now the Fn key. You can change the function of the Fn key by going to Layer 1.
+9. Click Layers, then MO(1). This key is now the Fn key. You can change the function of the Fn key by going to Layer 1
 
 
 ``block67r2.json``, originally posted to the ENG Studio Discord by user r3d_42 (thank you, whoever you are) - I claim no credit whatsoever, but don't want to lose this.
